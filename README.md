@@ -4,13 +4,13 @@
 💻 Interested in DSA, Web Development ,python 
 
 ## 🚀 Skills
-- C, Python
+-  Python
 - Data Structures & Algorithms
-- HTML, CSS, JavaScript
+- HTML, CSS
 
 ## 📌 Projects
 - Multi level stress detection
-- diabetic retinopathy detection using machine learning
+- diabetic retinopathy detection using Deep learning
 - Portfolio Website
 
 ## 📫 Contact Me
